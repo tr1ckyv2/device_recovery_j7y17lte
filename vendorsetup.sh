@@ -1,0 +1,2 @@
+add_lunch_combo omni_j7y17lte-userdebug
+add_lunch_combo omni_j7y17lte-eng
